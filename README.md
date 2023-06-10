@@ -1,6 +1,6 @@
 [![MasterHead](https://nodusanalytics.com/wp-content/uploads/2021/03/bi-dashboard-for-website.gif)]
 <h1 align="center">Hi 👋, I'm Nithin S</h1>
-<h3 align="center">A passionate Data Analyst</h3>
+<h3 align="center">A passionate Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 
